@@ -1,0 +1,175 @@
+#menu{
+    margin-left: 20px;
+}
+body{
+    background-color: ghostwhite;
+}
+#logo{
+    margin-left: 50px;
+    margin-bottom: -10px;
+}
+#youtube{
+    @import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+    font-size: 25px;
+    font-family: 'Anton', sans-serif;
+}
+#search{
+    margin-left: 80px;
+    margin-bottom: 5px;
+    position: absolute;
+}
+#options{
+    position: absolute;
+    margin-left: 920px;
+}
+.menubar{
+    width: 100%;
+    height: 100%;
+    background-color:white;
+}
+.navibar{
+    top: 67px;
+    width: 250px;
+    height:210px;
+    background-color: lavender;
+    position: absolute;
+}
+#click01{
+    background-color:gainsboro;
+    top: 75px;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+
+}
+#home{
+    position: absolute;
+    font-size: 20px;
+    top: 10px;
+    right: 120px;
+}
+#logo1{
+    position: absolute;
+    left: 20px;
+}
+#click02{
+    top: 145px;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+}
+#trending{
+    position: absolute;
+    font-size: 20px;
+    top: 7px;
+    right: 80px;
+}
+#logo2{
+    position: absolute;
+    left: 15px;
+}
+.mainpage{
+    position: absolute;
+    /*background-color: ghostwhite;*/
+    width: 1200px;
+    height: 650px;
+    right: 0px;
+
+}
+#click03{
+    top: 215px;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+}
+#subscribe{
+    position: absolute;
+    font-size: 20px;
+    top: 10px;
+    right: 35px;
+}
+#logo3{
+    position: absolute;
+    left: 15px;
+}
+.navibar1{
+    top: 290px;
+    width: 250px;
+    height:440px;
+    background-color: lavender;
+    position: absolute;
+}
+#click04{
+    top: 300px;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+}
+#logo4{
+    position: absolute;
+    left: 15px;
+}
+#library{
+    position: absolute;
+    font-size: 20px;
+    top: 10px;
+    right: 90px;
+}
+#click05{
+    top: 365px;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+}
+#logo5{
+    position: absolute;
+    left: 15px;
+}
+#history{
+    position: absolute;
+    font-size: 20px;
+    top: 10px;
+    right: 90px;
+}
+#click06{
+    top: 425px;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+}
+#logo6{
+    position: absolute;
+    left: 15px;
+}
+#watch{
+    position: absolute;
+    font-size: 20px;
+    top: 10px;
+    right: 45px;
+}
+#click07{
+    top: 490px;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+}
+#logo7{
+    position: absolute;
+    left: 15px;
+}
+#like{
+    position: absolute;
+    font-size: 20px;
+    top: 10px;
+    right: 120px;
+}
+#title{
+    position: absolute;
+    font-size: 20px;
+    top: 10px;
+}
+#pic1{
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+}
